@@ -14,6 +14,19 @@ Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múlt
 - Aplicação composta por BD: PostgreSQL, Frontend: Angular, Backend: C#.
 - Ambiente em Container Kubernetes
 
+### 🏅 Certificações e Badges
+[![CSM](https://img.shields.io/badge/Scrum_Alliance-Certified_ScrumMaster-0096D6?logo=scrumalliance&logoColor=white&style=for-the-badge)](https://bcert.me/sxxebbkqt)
+
+[![Scrum Foundation](https://img.shields.io/badge/Scrum%20Foundation-Credly-orange?logo=scrumalliance&style=for-the-badge)](https://www.credly.com/badges/0176534f-e271-4cef-9bd1-d891357cd065/public_url)
+
+[![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-ScrumStudy-blue?logo=vercel&style=for-the-badge)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1075303)
+
+[![Design Sprint](https://img.shields.io/badge/Design%20Sprint-Credly-yellow?logo=google&style=for-the-badge)](https://www.credly.com/badges/a5b2e978-0358-4c7e-9a94-3d831ae9a3b3/public_url)
+
+[![Lean Leadership](https://img.shields.io/badge/Lean%20Leadership-Credly-blue?logo=leanpub&style=for-the-badge)](https://www.credly.com/badges/0ca168ef-958e-4757-bd52-4c320fed6e5b/public_url)
+
+[![Lean Six Sigma Yellow Belt](https://img.shields.io/badge/Lean%20Six%20Sigma%20Yellow%20Belt-6sigmastudy-yellow?logo=processwire&style=for-the-badge)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=906903)
+
 ### 🛠 Habilidades
 [![Scrum](https://img.shields.io/badge/-Scrum-FF6D00?logo=scrum&logoColor=white)]()
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=kanban&logoColor=white) 
@@ -28,6 +41,7 @@ Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múlt
 |-----------------|-----------------------------------|
 | Velocity        | Previsão de entregas              |
 | Cycle Time      | Identificar gargalos              |
+| Throughput      | Produtividade entregue            |
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardorichardeoliveira)
