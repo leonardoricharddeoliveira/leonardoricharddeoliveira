@@ -31,7 +31,11 @@ Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múlt
 [![Scrum](https://img.shields.io/badge/-Scrum-FF6D00?logo=scrum&logoColor=white)]()
 ![Kanban](https://img.shields.io/badge/-Kanban-0052CC?logo=kanban&logoColor=white) 
 [![Lean](https://img.shields.io/badge/-Lean-00B0D8?logo=kanban&logoColor=white)]()
+[![Lean Six Sigma](https://img.shields.io/badge/-Lean_Six_Sigma-0052CC?logo=sigma&logoColor=white)]()
+[![Design Sprint](https://img.shields.io/badge/-Design_Sprint-FF6D00?logo=google&logoColor=white)]()
 [![SAFe](https://img.shields.io/badge/-SAFe-8A2BE2)]()
+[![Gestão de Squads Complexos](https://img.shields.io/badge/-Gestão_de_Squads_Complexos-0052CC)]()
+[![Otimização de Fluxo](https://img.shields.io/badge/-Otimização_de_Fluxo-00B0D8)]()
 [![Agile](https://img.shields.io/badge/-Agile-FF6D00?logo=agile&logoColor=white)]()
 [![Facilitação](https://img.shields.io/badge/-Facilitação-8A2BE2)]()
 
@@ -43,12 +47,12 @@ Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múlt
 | Cycle Time      | Identificar gargalos              |
 | Throughput      | Produtividade entregue            |
 
-### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardorichardeoliveira)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:leonardo.r.oliveira01@gmail.com)
-
 ### 🛠️ Templates  
 - [Checklist de Sprint Planning](https://docs.google.com/document/d/e/2PACX-1vRJbeCO3ZMg28xWGyRUnhmp4-VLDeprbw8iu54jFuDMPLVb10fCxLHOEMcYW7dv6b_P3h2Oh9dr8IuR/pub)  
 - [Modelo de Retrospectiva](https://docs.google.com/document/d/e/2PACX-1vRGgN-oFLCqxsiAsPxwS9833Y-PDUrK2nl4yoy6EV5ZWDtY_DkjJhIt-ytJS3M11Cy_L3DpDNtmE0R8/pub)  
 
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardorichardeoliveira)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:leonardo.r.oliveira01@gmail.com)
 
