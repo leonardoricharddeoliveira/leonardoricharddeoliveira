@@ -1,4 +1,4 @@
-[![Scrum Master](https://img.shields.io/badge/-Scrum_Master-FF6D00?logo=scrum&logoColor=white)]() 👤 Leonardo Richard de Oliveira 
+[![Scrum Master](https://img.shields.io/badge/-Scrum_Master-FF6D00?logo=scrum&logoColor=white)]()  Leonardo Richard de Oliveira 
 
 👋 Sobre Mim
 Tech Lead e Scrum Master com mais de 10 anos de experiência no setor de tecnologia, liderando a transformação de equipes e processos em ambientes corporativos de alta complexidade. Atuo diretamente na Petrobras, via Atos, liderando squads ágeis e implementando frameworks que geram resultados mensuráveis em entrega de valor e performance organizacional.
@@ -8,11 +8,11 @@ Minha abordagem combina liderança técnica e facilitação ágil, utilizando m�
 Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múltiplas credenciais em agilidade. Estou em constante evolução, preparado para novos desafios como Scrum Master full-time. Se busca alguém que transforma teoria ágil em resultados práticos e lidera transformações digitais de impacto, vamos conversar sobre como posso contribuir com sua organização.
 
 📂 Projetos Destacados
-Projeto Petrobras: atuação como Tech Lead | Scrum Master gerenciando 4 squads ágeis.
-Conclusão de um projeto, entrega de uma Aplicação para Gestão de Requisições de Transporte, onde o Roadmap foi de setembro de 2022 à novembro de 2024.
-Time Composto por 3 Devs (1 Sênior (Backend), 1 Pleno (Backend), 1 Pleno (Frontend), 2 PO, 1 SM e 1 LT))
-Aplicação composta por BD: PostgreSQL, Frontend: Angular, Backend: C#.
-Ambiente em Container Kubernetes
+- Projeto Petrobras: atuação como Tech Lead | Scrum Master gerenciando 4 squads ágeis.
+- Conclusão de um projeto, entrega de uma Aplicação para Gestão de Requisições de Transporte, onde o Roadmap foi de setembro de 2022 à novembro de 2024.
+- Time Composto por 3 Devs (1 Sênior (Backend), 1 Pleno (Backend), 1 Pleno (Frontend), 2 PO, 1 SM e 1 LT))
+- Aplicação composta por BD: PostgreSQL, Frontend: Angular, Backend: C#.
+- Ambiente em Container Kubernetes
 
 ### 🛠 Habilidades
 [![Scrum](https://img.shields.io/badge/-Scrum-FF6D00?logo=scrum&logoColor=white)]()
