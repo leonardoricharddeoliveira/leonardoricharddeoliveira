@@ -19,3 +19,8 @@
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardorichardeoliveira)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:leonardo.r.oliveira01@gmail.com)
+
+
+####🏆 Projetos
+- [📊 Agile Dashboard](https://github.com/seuusername/agile-dashboard) - Painel de métricas ágeis.
+- [📝 Templates Scrum](agile-portfolio/templates) - Modelos para cerimônias.
