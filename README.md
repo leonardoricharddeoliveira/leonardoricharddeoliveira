@@ -1,4 +1,7 @@
-[![Scrum Master](https://img.shields.io/badge/-Scrum_Master-FF6D00?logo=scrum&logoColor=white)]()  Leonardo Richard de Oliveira 
+[![Scrum Master](https://img.shields.io/badge/-Scrum_Master-FF6D00?logo=scrum&logoColor=white)]() 
+
+
+Leonardo Richard de Oliveira 
 
 ----------------------------------------------
 👋 Sobre Mim
