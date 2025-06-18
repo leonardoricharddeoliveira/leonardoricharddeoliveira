@@ -1,4 +1,5 @@
 [![Scrum Master](https://img.shields.io/badge/-Scrum_Master-FF6D00?logo=scrum&logoColor=white)]()  Leonardo Richard de Oliveira 
+
 ----------------------------------------------
 👋 Sobre Mim
 Tech Lead e Scrum Master com mais de 10 anos de experiência no setor de tecnologia, liderando a transformação de equipes e processos em ambientes corporativos de alta complexidade. Atuo diretamente na Petrobras, via Atos, liderando squads ágeis e implementando frameworks que geram resultados mensuráveis em entrega de valor e performance organizacional.
