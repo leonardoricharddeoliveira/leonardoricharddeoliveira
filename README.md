@@ -8,7 +8,7 @@ Minha abordagem combina liderança técnica e facilitação ágil, utilizando m�
 Certificado CSM®, SFPC™, DSPC™ e Lean Six Sigma Yellow Belt, além de múltiplas credenciais em agilidade. Estou em constante evolução, preparado para novos desafios como Scrum Master full-time. Se busca alguém que transforma teoria ágil em resultados práticos e lidera transformações digitais de impacto, vamos conversar sobre como posso contribuir com sua organização.
 
 📂 Projetos Destacados
-- Projeto Petrobras: atuação como Tech Lead | Scrum Master gerenciando 4 squads ágeis.
+- Projeto Petrobras: atuação como Tech Lead | Scrum Master facilitando 3 squads ágeis.
 - Conclusão de um projeto, entrega de uma Aplicação para Gestão de Requisições de Transporte, onde o Roadmap foi de setembro de 2022 à novembro de 2024.
 - Time Composto por 3 Devs (1 Sênior (Backend), 1 Pleno (Backend), 1 Pleno (Frontend), 2 PO, 1 SM e 1 LT))
 - Aplicação composta por BD: PostgreSQL, Frontend: Angular, Backend: C#.
