@@ -84,7 +84,7 @@
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/leonardorichardoliveira/)  
 - [🌐 GitHub](https://github.com/leonardoricharddeoliveira)  
-- ✉️ **E-mail**: leonardo.r.oliveira01@gmail.com
+- [✉️](leonardo.r.oliveira01@gmail.com)
 
 
 
