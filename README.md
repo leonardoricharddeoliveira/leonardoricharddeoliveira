@@ -28,18 +28,23 @@
 
 # 🏆 Minhas Certificações Ágeis
 
+## 📜 Scrum & Agile
 [![CSM](https://img.shields.io/badge/Scrum_Alliance-Certified_ScrumMaster-0096D6?logo=scrumalliance&logoColor=white&style=for-the-badge)](https://bcert.me/sxxebbkqt)
 [![Scrum Foundation](https://img.shields.io/badge/Scrum%20Foundation-Credly-orange?logo=scrumalliance&style=for-the-badge)](https://www.credly.com/badges/0176534f-e271-4cef-9bd1-d891357cd065/public_url)
 [![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum%20Fundamentals%20Certified-ScrumStudy-blue?logo=vercel&style=for-the-badge)](https://www.scrumstudy.com/certification/verify?type=SFC&number=1075303)
-[![Design Sprint](https://img.shields.io/badge/Design%20Sprint-Credly-yellow?logo=google&style=for-the-badge)](https://www.credly.com/badges/a5b2e978-0358-4c7e-9a94-3d831ae9a3b3/public_url)
+
+## 🎯 Lean & Six Sigma
 [![Lean Leadership](https://img.shields.io/badge/Lean%20Leadership-Credly-blue?logo=leanpub&style=for-the-badge)](https://www.credly.com/badges/0ca168ef-958e-4757-bd52-4c320fed6e5b/public_url)
 [![Lean Six Sigma Yellow Belt](https://img.shields.io/badge/Lean%20Six%20Sigma%20Yellow%20Belt-6sigmastudy-yellow?logo=processwire&style=for-the-badge)](https://www.6sigmastudy.com/certification/verify?type=SSYB&number=906903)
+
+## 🎨 Design Thinking
+[![Design Sprint](https://img.shields.io/badge/Design%20Sprint-Credly-yellow?logo=google&style=for-the-badge)](https://www.credly.com/badges/a5b2e978-0358-4c7e-9a94-3d831ae9a3b3/public_url)
 
 ---
 
 # 💬 Filosofia de Trabalho
 
-> *“Trabalhar com agilidade não é só seguir cerimônias; é criar um ambiente onde o time evolui, aprende rápido e entrega valor real.”* 🚦
+> *"Trabalhar com agilidade não é só seguir cerimônias; é criar um ambiente onde o time evolui, aprende rápido e entrega valor real."* 🚦
 
 - Liderança servidora  
 - Facilitação em contextos colaborativos  
@@ -66,22 +71,20 @@
 - [Modelo de Retrospectiva](https://docs.google.com/document/d/e/2PACX-1vRGgN-oFLCqxsiAsPxwS9833Y-PDUrK2nl4yoy6EV5ZWDtY_DkjJhIt-ytJS3M11Cy_L3DpDNtmE0R8/pub)
 
 ---
-#                     🏎️ Ayrton Senna 🏁
-![image](https://github.com/user-attachments/assets/4903bec4-7e76-44c8-9b7f-7ed1a2b83fdc)
+# 🏎️ Ayrton Senna 🏁
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4903bec4-7e76-44c8-9b7f-7ed1a2b83fdc" width="300" alt="Ayrton Senna" />
+</p>
 
-> *“No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz.” 
+> *"No que diz respeito ao empenho, ao compromisso, ao esforço, à dedicação, não existe meio termo. Ou você faz uma coisa bem feita ou não faz."*
 
 ---
 
 # 📲 Onde me encontrar
 
 - [🔗 LinkedIn](https://www.linkedin.com/in/leonardorichardoliveira/)  
-- [🌐 GitHub](https://github.com/leonardoricharddeoliveira)
-
-
-
-
-
+- [🌐 GitHub](https://github.com/leonardoricharddeoliveira)  
+- ✉️ **E-mail**: leonardo.r.oliveira01@gmail.com
 
 
 
