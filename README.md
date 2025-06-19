@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=700&lines=Oi%2C+eu+sou+o+Leonardo+Richard+de+Oliveira!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+o+Leonardo+Richard+de+Oliveira!;Seja+Bem-Vindo(a)+ao+meu+GitHub+%F0%9F%96%96%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
