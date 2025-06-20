@@ -87,9 +87,6 @@
 - [✉️](leonardo.r.oliveira01@gmail.com)
 
 
----
-## 🐍 Snake Contributions
-
 <p align="center">
   <img src="https://github.com/leonardoricharddeoliveira/leonardoricharddeoliveira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
