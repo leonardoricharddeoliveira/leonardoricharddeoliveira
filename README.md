@@ -97,6 +97,6 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita%2C+volte+sempre!+%F0%9F%91%8B;alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita%2C+volte+sempre!+%F0%9F%91%8B;="Typing SVG" />
 </p>
 
