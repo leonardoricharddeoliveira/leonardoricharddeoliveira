@@ -89,8 +89,6 @@
 
 ---
 
-### 🐍 Snake eat my contributions graph
-
 <p align="center">
   <img src="https://github.com/leonardoricharddeoliveira/leonardoricharddeoliveira/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
