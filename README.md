@@ -86,8 +86,8 @@
 - [🌐 GitHub](https://github.com/leonardoricharddeoliveira)  
 - [✉️](leonardo.r.oliveira01@gmail.com)
 
-
-## 🐍 
+---
+## 🐍 Contribuições
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardoricharddeoliveira/leonardoricharddeoliveiraa/output/github-contribution-grid-snake-dark.svg">
