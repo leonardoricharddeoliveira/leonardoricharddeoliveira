@@ -90,7 +90,7 @@
 ## 🐍 
 
 <p align="center">
-  <img src="https://github.com/leonardoricharddeoliveira/leonardoricharddeoliveira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/leonardorichardeoliveira/leonardorichardeoliveira/output/snake.svg" alt="Snake animation" />
 </p>
 
 
