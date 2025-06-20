@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Oi%2C+eu+sou+o+Leonardo+Richard+de+Oliveira!;Seja+Bem-Vindo(a)+ao+meu+GitHub+%F0%9F%96%96%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Oi%2C+eu+sou+o+Leonardo;Seja+Bem-Vindo(a)+ao+meu+GitHub+%F0%9F%96%96%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -95,4 +95,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leonardoricharddeoliveira/leonardoricharddeoliveira/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita%2C+volte+sempre!+%F0%9F%91%8B;alt="Typing SVG" />
+</p>
 
