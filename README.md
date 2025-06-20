@@ -7,8 +7,8 @@
 # 🚀 Sobre mim
 
 - 👨‍💼 **Tech Lead** | **Scrum Master** | **Facilitador Ágil**
-- 🧠 Especialista em **Agilidade de Negócios**, **Liderança de Times Multidisciplinares** e **Entrega Contínua de Valor**
--  Apaixonado por **Tecnologia**, **Inovação** e **Fórmula 1 🏎️**, inspirado pelas lições de **performance**, **resiliência** e **foco no resultado** que Ayrton Senna deixou.
+- 🧠 Especialista em **Agilidade**, **Liderança de Times Multidisciplinares** e **Entrega Contínua de Valor**
+-  Apaixonado por **Tecnologia**, **Inovação** e **Fórmula 1🏎️**, inspirado pelas lições de **performance**, **resiliência** e **foco no resultado** que Ayrton Senna nos deixou.
 
 ---
 
