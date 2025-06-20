@@ -52,7 +52,7 @@
 
 ---
 
-# 📊 Métricas Ágeis Favoritas
+# 📊 Métricas Ágeis Mais Utilizadas
 
 | 📌 **Métrica**       | 💡 **O que mede e por que é importante**                                              |
 |----------------------|---------------------------------------------------------------------------------------|
