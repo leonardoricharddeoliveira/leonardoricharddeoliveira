@@ -21,4 +21,6 @@ jobs:
           build_dir: ./output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Commit para forçar o GitHub Actions rodar
+
 
