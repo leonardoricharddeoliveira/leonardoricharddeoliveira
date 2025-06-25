@@ -66,9 +66,10 @@
 
 ---
 
-> 🛠️ Templates  
+ # 🧰 Extras 
 - [Checklist de Sprint Planning](https://docs.google.com/document/d/e/2PACX-1vRJbeCO3ZMg28xWGyRUnhmp4-VLDeprbw8iu54jFuDMPLVb10fCxLHOEMcYW7dv6b_P3h2Oh9dr8IuR/pub)  
 - [Modelo de Retrospectiva](https://docs.google.com/document/d/e/2PACX-1vRGgN-oFLCqxsiAsPxwS9833Y-PDUrK2nl4yoy6EV5ZWDtY_DkjJhIt-ytJS3M11Cy_L3DpDNtmE0R8/pub)
+- [Posts de Agilidade](https://www.linkedin.com/in/leonardorichardoliveira/details/featured/)
 
 ---
 # 🏎️ Ayrton Senna 🏁
