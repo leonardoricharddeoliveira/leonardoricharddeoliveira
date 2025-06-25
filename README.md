@@ -60,7 +60,6 @@
 | 🕐 **Lead Time**     | Tempo total entre a criação e a entrega de um item. Reflete a experiência do cliente.|
 | ⚡ **Cycle Time**    | Tempo gasto entre o início real do trabalho e sua conclusão. Mostra a eficiência.    |
 | 🚀 **Velocity**      | Média de pontos de história entregues por Sprint. Útil para planejamento futuro.     |
-| 📊 **CFD (Cumulative Flow Diagram)** | Visualiza o fluxo de trabalho ao longo do tempo. Ajuda a identificar gargalos. |
 
 > 🎯 Só melhoramos o que conseguimos medir 😉
 
